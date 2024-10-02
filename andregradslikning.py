@@ -2,5 +2,5 @@
 import math
 
 def losninger(a, b, c):
-  # Din kode he
+  # Din kode her
   return #Returneringsverdi
